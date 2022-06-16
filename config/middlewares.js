@@ -1,5 +1,5 @@
-module.exports = [
-  'strapi::errors',
+module.exports = ({env}) =>
+  ['strapi::errors',
   {
     name: "strapi::security",
     config: {
@@ -32,4 +32,4 @@ module.exports = [
   'strapi::session',
   'strapi::favicon',
   'strapi::public',
-];
+]
