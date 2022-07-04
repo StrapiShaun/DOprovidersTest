@@ -9535,7 +9535,7 @@ std-env@^2.2.1:
   dependencies:
     ci-info "^3.1.1"
 
-strapi-provider-upload-do@^4.2.2:
+strapi-provider-upload-do@^3.6.6:
   version "3.6.6"
   resolved "https://registry.yarnpkg.com/strapi-provider-upload-do/-/strapi-provider-upload-do-3.6.6.tgz#d51bb7e26cabce0c3ad93ffbce5b789b527522b2"
   integrity sha512-m24sgMnau6vKpstl5hMHXTbnkkOka0NVnzfEfl9b8b4vVpcil7VXQ/1hT6RZYRwKEBPO1tJzx8ZJ2RS0deuM9A==
