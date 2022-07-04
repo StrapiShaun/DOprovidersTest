@@ -11,13 +11,13 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-i18n": "4.2.0",
-    "@strapi/plugin-users-permissions": "4.2.0",
-    "@strapi/provider-email-sendmail": "^4.2.0",
-    "@strapi/strapi": "4.2.0",
+    "@strapi/plugin-i18n": "4.2.2",
+    "@strapi/plugin-users-permissions": "4.2.2",
+    "@strapi/provider-email-sendmail": "^4.2.2",
+    "@strapi/strapi": "4.2.2",
     "better-sqlite3": "7.4.6",
     "pg": "^8.7.3",
-    "strapi-provider-upload-do": "^3.6.6"
+    "strapi-provider-upload-do": "^4.2.2"
   },
   "author": {
     "name": "A Strapi developer"
