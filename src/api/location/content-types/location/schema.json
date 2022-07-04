@@ -4,7 +4,8 @@
   "info": {
     "singularName": "location",
     "pluralName": "locations",
-    "displayName": "Location"
+    "displayName": "Location",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -18,14 +19,18 @@
       "type": "richtext"
     },
     "photo": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
       "allowedTypes": [
         "images",
         "files",
         "videos",
         "audios"
-      ],
-      "type": "media",
-      "multiple": true
+      ]
+    },
+    "email": {
+      "type": "email"
     }
   }
 }
