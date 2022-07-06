@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_edit_writings",
+  "info": {
+    "displayName": "writing",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "text"
+    },
+    "review_complete": {
+      "type": "boolean"
+    },
+    "dateReviewed": {
+      "type": "date"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_edit_tests",
+  "info": {
+    "displayName": "Test",
+    "icon": "ankh"
+  },
+  "options": {},
+  "attributes": {
+    "testA": {
+      "type": "string"
+    },
+    "score": {
+      "type": "integer"
+    },
+    "award": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

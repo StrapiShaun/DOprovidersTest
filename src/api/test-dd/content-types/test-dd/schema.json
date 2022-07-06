@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "test_dds",
+  "info": {
+    "singularName": "test-dd",
+    "pluralName": "test-dds",
+    "displayName": "testDd"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "testCc": {
+      "type": "component",
+      "repeatable": true,
+      "component": "edit.test"
+    }
+  }
+}
